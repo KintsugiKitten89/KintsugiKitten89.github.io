@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "74RG5YJ37J.com.danibuffa.OpenGlassesThreshold",
+        "paths": [
+          "/openglasses",
+          "/openglasses/*"
+        ]
+      }
+    ]
+  }
+}
